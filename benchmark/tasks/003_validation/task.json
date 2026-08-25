@@ -1,0 +1,6 @@
+{
+  "id": "003_validation",
+  "repository": "/mnt/data/ai-software-debugger/benchmark/tasks/003_validation",
+  "bug_description": "Age zero should be rejected by validation.",
+  "known_root_cause": "zero should be invalid"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "004_exception",
+  "repository": "/mnt/data/ai-software-debugger/benchmark/tasks/004_exception",
+  "bug_description": "Invalid numeric input should return None instead of raising.",
+  "known_root_cause": "ValueError"
+}
