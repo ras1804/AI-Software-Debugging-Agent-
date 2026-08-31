@@ -1,0 +1,32 @@
+[
+  {
+    "task_id": "bug_001",
+    "repo": "tasks/bug_001",
+    "bug_description": "add should return the sum of two numbers",
+    "expected_root_cause": "subtraction used instead of addition"
+  },
+  {
+    "task_id": "bug_002",
+    "repo": "tasks/bug_002",
+    "bug_description": "is_even should return True for even integers",
+    "expected_root_cause": "odd condition is used"
+  },
+  {
+    "task_id": "bug_003",
+    "repo": "tasks/bug_003",
+    "bug_description": "greet should include a comma after Hello",
+    "expected_root_cause": "missing comma in formatted string"
+  },
+  {
+    "task_id": "bug_004",
+    "repo": "tasks/bug_004",
+    "bug_description": "average should calculate the arithmetic mean",
+    "expected_root_cause": "divisor is one less than list length"
+  },
+  {
+    "task_id": "bug_005",
+    "repo": "tasks/bug_005",
+    "bug_description": "max_value should return the largest value",
+    "expected_root_cause": "min is called instead of max"
+  }
+]
