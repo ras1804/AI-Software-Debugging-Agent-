@@ -1,6 +1,0 @@
-{
-  "id": "005_discount",
-  "repository": "/mnt/data/ai-software-debugger/benchmark/tasks/005_discount",
-  "bug_description": "The pricing function receives discount as a fraction such as 0.2.",
-  "known_root_cause": "fraction discount"
-}

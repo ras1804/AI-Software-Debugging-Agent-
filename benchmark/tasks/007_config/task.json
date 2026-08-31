@@ -1,6 +1,0 @@
-{
-  "id": "007_config",
-  "repository": "/mnt/data/ai-software-debugger/benchmark/tasks/007_config",
-  "bug_description": "Missing API_URL configuration should use the local default.",
-  "known_root_cause": "default"
-}

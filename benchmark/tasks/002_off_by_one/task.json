@@ -1,6 +1,0 @@
-{
-  "id": "002_off_by_one",
-  "repository": "/mnt/data/ai-software-debugger/benchmark/tasks/002_off_by_one",
-  "bug_description": "The last() function crashes for a normal non-empty list.",
-  "known_root_cause": "index out of range"
-}

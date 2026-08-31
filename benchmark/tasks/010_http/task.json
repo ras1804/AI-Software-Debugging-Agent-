@@ -1,6 +1,0 @@
-{
-  "id": "010_http",
-  "repository": "/mnt/data/ai-software-debugger/benchmark/tasks/010_http",
-  "bug_description": "Successful requests should return HTTP 200.",
-  "known_root_cause": "status true 200"
-}

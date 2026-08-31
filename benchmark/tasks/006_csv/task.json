@@ -1,6 +1,0 @@
-{
-  "id": "006_csv",
-  "repository": "/mnt/data/ai-software-debugger/benchmark/tasks/006_csv",
-  "bug_description": "Input records use snake_case first_name.",
-  "known_root_cause": "first_name"
-}

@@ -1,6 +1,0 @@
-{
-  "id": "008_auth",
-  "repository": "/mnt/data/ai-software-debugger/benchmark/tasks/008_auth",
-  "bug_description": "Admins should be allowed to access resources owned by another user.",
-  "known_root_cause": "admin"
-}

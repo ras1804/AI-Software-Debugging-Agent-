@@ -1,6 +1,0 @@
-{
-  "id": "001_zero_quantity",
-  "repository": "/mnt/data/ai-software-debugger/benchmark/tasks/001_zero_quantity",
-  "bug_description": "The /orders endpoint returns HTTP 500 when quantity is zero.",
-  "known_root_cause": "division by zero"
-}

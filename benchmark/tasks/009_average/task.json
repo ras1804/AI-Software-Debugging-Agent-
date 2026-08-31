@@ -1,6 +1,0 @@
-{
-  "id": "009_average",
-  "repository": "/mnt/data/ai-software-debugger/benchmark/tasks/009_average",
-  "bug_description": "Average of an empty collection should be zero.",
-  "known_root_cause": "empty collection"
-}
